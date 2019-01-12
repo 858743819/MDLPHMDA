@@ -1,0 +1,6 @@
+MDLP: the main function to predict potential microbes for all diseases based on known microbe-disease associations.
+Lrr: creat new adjacency matrix of microbe-disease associations based on SLM.
+similarity_disease:the calculation of integrated disease similarity.
+similarity_microbe: the calculation of Gaussian interaction profile kernel similarity for microbes.
+The scores of all the candidate microbe-disease pairs would be obtained in the all.xlsx.
+the scores between all cididate miRNAs and investigated diseases would be obtained in the file of result.
