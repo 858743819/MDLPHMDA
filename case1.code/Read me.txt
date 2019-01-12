@@ -3,4 +3,4 @@ Lrr: creat new adjacency matrix of microbe-disease associations based on SLM.
 similarity_disease:the calculation of integrated disease similarity.
 similarity_microbe: the calculation of Gaussian interaction profile kernel similarity for microbes.
 The scores of all the candidate microbe-disease pairs would be obtained in the all.xlsx.
-the scores of cididate miRNAs for each investigated diseases would be obtained in the file of result.
+the scores of cididate miRNAs for each investigated diseases predicted by MDLPHMDA would be obtained in the file of result.
